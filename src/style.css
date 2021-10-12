@@ -1,0 +1,12 @@
+/* styles go here */
+.form-fieldset {
+  margin-bottom: 20px;
+}
+
+.form-fieldset :last-child {
+  margin-bottom: 0;
+}
+
+.form-field {
+  margin-bottom: 10px;
+}
